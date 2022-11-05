@@ -28,7 +28,10 @@ Tenho paixão em tudo o que faço! Desde música (poesia e ukulele), passando po
 
 ### Redes:
 
-<p align="left"> <a href="https://www.github.com/ZekaEu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/oaprendix" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/zekabezerra/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left">
+<a href="http://www.instagram.com/oaprendix" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/zekabezerra/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
 <b>GitHub Stats:</b>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zekaeu&show_icons=true&theme=dark&title_color=22c55e&text_color=22c55e&locale=en&layout=compact" alt="zekaeu" /></p>
