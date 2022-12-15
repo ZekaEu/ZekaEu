@@ -7,7 +7,7 @@ Fullstack Web Developer
 Tenho paixão em tudo o que faço! Desde música (poesia e ukulele), passando por esportes (skate e Magic: The Gathering), estudos (Economia e Desenvolvimento) e hobbies variados (cubos mágicos e maratona), até programação (Front-end e Back-end). Busco por aprendizados acerca de diferentes tecnologias e culturas, bem como fazer a diferença através das experiências adquiridas e dos conhecimentos acumulados.
 
 * ✉️  Por favor, me envie um e-mail: [josecsbezerra1@gmail.com](mailto:josecsbezerra1@gmail.com)
-* 🧠  No momento, estou buscando por oportunidades como Developer Junior
+* 🧠  No momento, estou estudando para aprimorar meus conhecimentos em Testes Unitários (sinta-se livre para me recomendar algum conteúdo)
 
 ### Principais habilidades:
 
