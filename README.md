@@ -7,7 +7,7 @@ Fullstack Web Developer
 Tenho paixão em tudo o que faço! Desde música (poesia e ukulele), passando por esportes (skate e Magic: The Gathering), estudos (Economia e Desenvolvimento) e hobbies variados (cubos mágicos e maratona), até programação (Front-end e Back-end). Busco por aprendizados acerca de diferentes tecnologias e culturas, bem como fazer a diferença através das experiências adquiridas e dos conhecimentos acumulados.
 
 * ✉️  Por favor, me envie um e-mail: [josecsbezerra1@gmail.com](mailto:josecsbezerra1@gmail.com)
-* 🧠  No momento, estou estudando para aprimorar meus conhecimentos em Testes Unitários (sinta-se livre para me recomendar algum conteúdo)
+* 🧠  No momento, estou estudando Angular (sinta-se livre para me recomendar algum conteúdo)
 
 ### Principais habilidades:
 
@@ -24,6 +24,7 @@ Tenho paixão em tudo o que faço! Desde música (poesia e ukulele), passando po
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Heroku" /></a>
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" /></a>
+<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Heroku" /></a>
 </p>
 
 ### Redes:
