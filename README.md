@@ -35,7 +35,7 @@ Tenho paixão em tudo o que faço! Desde música (poesia e ukulele), passando po
 </p>
 
 <b>GitHub Stats:</b>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZekaEu&show_icons=true&theme=dark&title_color=22c55e&text_color=22c55e&locale=en&layout=compact" alt="zekaeu" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZekaEu&show_icons=true&theme=dark&title_color=22c55e&text_color=22c55e&locale=en&layout=compact" alt="ZekaEu" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ZekaEu&show_icons=true&hide=issues,contribs&title_color=22c55e&text_color=facc15&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="ZekaEu's GitHub stats" /></p>
 
