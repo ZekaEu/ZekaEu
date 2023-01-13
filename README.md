@@ -22,9 +22,9 @@ Tenho paixão em tudo o que faço! Desde música (poesia e ukulele), passando po
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" /></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Heroku" /></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a>
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" /></a>
-<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Heroku" /></a>
+<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" /></a>
 </p>
 
 ### Redes:
@@ -35,7 +35,7 @@ Tenho paixão em tudo o que faço! Desde música (poesia e ukulele), passando po
 </p>
 
 <b>GitHub Stats:</b>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zekaeu&show_icons=true&theme=dark&title_color=22c55e&text_color=22c55e&locale=en&layout=compact" alt="zekaeu" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZekaEu&show_icons=true&theme=dark&title_color=22c55e&text_color=22c55e&locale=en&layout=compact" alt="zekaeu" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ZekaEu&show_icons=true&hide=issues,contribs&title_color=22c55e&text_color=facc15&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="ZekaEu's GitHub stats" /></p>
 
