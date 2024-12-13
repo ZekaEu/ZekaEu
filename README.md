@@ -4,10 +4,10 @@ Olá ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 Fullstack Web Developer
 -------------
 
-Tenho paixão em tudo o que faço! Desde música (poesia e ukulele), passando por esportes (skate e Magic: The Gathering), estudos (Economia e Desenvolvimento) e hobbies variados (cubos mágicos e maratona), até programação (Front-end e Back-end). Busco por aprendizados acerca de diferentes tecnologias e culturas, bem como fazer a diferença através das experiências adquiridas e dos conhecimentos acumulados.
+Tenho paixão em tudo o que faço! Desde música (poesia e ukulele), passando por esportes (skate e Magic: The Gathering), estudos (Economia e Desenvolvimento Pessoal) e hobbies variados (cubos mágicos e maratona), até programação (Front-end e Back-end). Busco por aprendizados acerca de diferentes tecnologias e culturas, bem como fazer a diferença através das experiências adquiridas e dos conhecimentos acumulados.
 
 * ✉️  Por favor, me envie um e-mail: [josecsbezerra1@gmail.com](mailto:josecsbezerra1@gmail.com)
-* 🧠  No momento, estou estudando Angular (sinta-se livre para me recomendar algum conteúdo)
+* 🧠  No momento, estou estudando para tirar minha Certificação AWS Cloud Practitioner.
 
 ### Principais habilidades:
 
